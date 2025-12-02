@@ -1,8 +1,8 @@
 the code about plotting is in:pydefect/pydefect/cli/main.py
 
-/scratch/user/kaijiz/.conda/envs/pydefect39/lib/python3.9/site-packages/pydefect/analyzer/defect_energy_plotter.py
+/scratch/user/kaijiz/.conda/envs/pydefect_new/lib/python3.11/site-packages/pydefect/analyzer/defect_energy_plotter.py
 
-/scratch/user/kaijiz/.conda/envs/pydefect39/lib/python3.9/site-packages/pydefect/cli/main_functions.py. i mainly change this code:
+/scratch/user/kaijiz/.conda/envs/pydefect_new/lib/python3.11/site-packages/pydefect/cli/main_functions.py. i mainly change this code:
 
 1. import re
 2. add a function named normalize_defect_name
